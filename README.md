@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rouvenkahmann&label=Profile%20views&color=0e75b6&style=flat" alt="rouvenkahmann" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rouvenkahmann" alt="rouvenkahmann" /></a> </p>
+- 🔭 I’m currently working on [DiscGolf App](https://github.com/coding-bootcamps-eu/final-project-2023-10-discgolf)
 
 - 🌱 I’m currently learning **HTML, CSS, and Javascript**
-
-- 👯 I’m looking to collaborate on [DiscGolf App](https://github.com/coding-bootcamps-eu/final-project-2023-10-discgolf)
 
 - 📫 How to reach me **rouven.kahmann@gmail.com**
 
