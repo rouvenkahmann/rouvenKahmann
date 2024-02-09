@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rouven Kahmann</h1>
 <h3 align="center">Ruhrgebiet Tinkerer: Coding Quirks</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rouvenkahmann&label=Profile%20views&color=0e75b6&style=flat" alt="rouvenkahmann" /> </p>
+
 
 - 🔭 I’m currently working on [DiscGolf App](https://github.com/coding-bootcamps-eu/final-project-2023-10-discgolf)
 
